@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+
+
+# Build files
+dist/
+build/
+
+# Logs
+logs
+*.log*
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS generated files
+.DS_Store
+Thumbs.db
